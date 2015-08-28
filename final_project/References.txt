@@ -1,0 +1,16 @@
+I reference several websites for this project
+Sklearn Documentation
+http://scikit-learn.org/stable/modules/grid_search.html
+http://scikit-learn.org/stable/modules/generated/sklearn.grid_search.GridSearchCV.html
+http://scikit-learn.org/stable/modules/cross_validation.html#cross-validation
+http://scikit-learn.org/stable/modules/tree.html
+http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html#sklearn.ensemble.RandomForestClassifier
+http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.ExtraTreesClassifier.html#sklearn.ensemble.ExtraTreesClassifier
+
+Udacity Discussion
+https://discussions.udacity.com
+
+Stackoverflow
+http://stackoverflow.com/
+
+I hereby confirm that this submission is my work. I have cited above the origins of any parts of the submission that were taken from Websites, books, forums, blog posts, github repositories, etc.
